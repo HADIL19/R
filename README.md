@@ -16,3 +16,4 @@ https://youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&si=Z-ogchTv
 
 https://dplyr.tidyverse.org/ 
 ⚡️Préparez-vous à l'emploi de programmeur R : https://bit.ly/44XNBDt
+https://roadmap.sh/data-analyst 
